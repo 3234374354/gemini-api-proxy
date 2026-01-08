@@ -8,6 +8,9 @@
 
 **一键部署到 Vercel**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Astral719/gemini-api-proxy)
 
+
+https://vercel.com/3234374354s-projects/gemini-api-proxy
+
 ## ✨ 特性
 
 - 🌍 **全球加速**: 基于 Vercel 全球 CDN，为中国用户优化
