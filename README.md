@@ -11,6 +11,8 @@
 
 https://vercel.com/3234374354s-projects/gemini-api-proxy
 
+https://gemini-api-proxy-og7ly9w5o-3234374354s-projects.vercel.app/
+
 ## ✨ 特性
 
 - 🌍 **全球加速**: 基于 Vercel 全球 CDN，为中国用户优化
